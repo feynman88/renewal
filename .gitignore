@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# personal reference notes (task brief, planning) — not part of deliverable
+/ref
+
+# playwright-cli local artifacts
+.playwright-cli/
